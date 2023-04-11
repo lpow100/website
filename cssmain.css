@@ -1,0 +1,29 @@
+
+h1{font-size:30px;color: black;}
+.text{font-size:20px;color: black;}
+.pic{
+    padding:10px;
+    left:50px;
+    float:right;
+    border-radius: 25px;
+    border: 10px solid aquamarine;
+}
+.rcorners {
+    border-radius: 25px;
+    background: aquamarine;
+    padding: 20px;
+  }
+button{
+    border: none;
+    width:120px;
+    height:60px;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: rgb(110, 217, 181);
+    color: white;
+  }
+button:active {
+    background-color: aquamarine;
+    color: white;
+  }
