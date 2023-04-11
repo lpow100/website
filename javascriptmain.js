@@ -1,3 +1,3 @@
 function hi(){
-    window.location.href = "file://html2.html";
+    window.location.href = "file://lpow100/website/html2.html";
 }
