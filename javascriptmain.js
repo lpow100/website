@@ -1,3 +1,6 @@
-function hi(){
-    window.location.href = "file:///html2.html";
+function pgmain(){
+    window.location.href = "http://eip.shellcode.network/website/mainpage.html";
+}
+function pg2(){
+    window.location.href = "http://eip.shellcode.network/website/html2.html";
 }
