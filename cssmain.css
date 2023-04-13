@@ -7,8 +7,8 @@ h1{font-size:30px;color: black;}
     float:right;
     border-radius: 25px;
     border: 10px solid aquamarine;
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 100px;
+    max-height: 100px;
 }
 .rcorners {
     border-radius: 25px;
