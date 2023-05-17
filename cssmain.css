@@ -1,6 +1,11 @@
-
-h1{font-size:30px;color: black;}
-.text{font-size:20px;color: black;}
+h1{
+    font-size:30px;
+    color: black;
+  }
+.text{
+    font-size:20px;
+    color: black;
+  }
 .pic{
     padding:10px;
     left:50px;
